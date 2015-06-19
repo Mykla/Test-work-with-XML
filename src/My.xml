@@ -1,0 +1,28 @@
+<B>
+	<D>
+		<C>
+			<C1>
+				<C11>
+					something
+				</C11>
+				<C12>
+					something
+				</C12>
+			</C1>
+		</C>
+		<D>
+			<D1>
+				<D11>
+					<D111 operation="create\"></D111>
+					<Node>
+						something else
+					</Node>
+				</D11>
+			</D1>
+		</D>
+		<D2>
+			<D21>
+			</D21>
+		</D2>
+	</D>
+</B>

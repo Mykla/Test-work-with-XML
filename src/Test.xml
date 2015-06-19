@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<catalog>
+    <book>
+        <author>Author1</author>
+        <price>14.55</price>
+        <publish_date>2014-04-29T13:21:54.106+03:00</publish_date>
+        <title>Title1</title>
+    </book>
+    <book>
+        <author>Author2</author>
+        <price>66.0</price>
+        <publish_date>2014-04-29T13:21:54.106+03:00</publish_date>
+        <title>Title2</title>
+        <genre/>
+    </book>
+    <book>
+        <author>Author3</author>
+        <price>67.0</price>
+        <publish_date>2013-02-29T13:21:54.106+03:00</publish_date>
+        <title>Title3</title>
+    </book>
+    <book>
+        <author>Author4</author>
+        <price>96.0</price>
+        <publish_date>2015-07-29T13:21:54.106+03:00</publish_date>
+        <title>Title3</title>
+    </book>
+</catalog>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<B>
+	<D>
+		<C>
+			<C1>
+				<C11>
+					something
+				</C11>
+				<C12>
+					something
+				</C12>
+			</C1>
+		</C>
+		<D>
+			<D1>
+				<D11>
+					<D111 operation="create\"/>
+					<Node>
+						something else
+					</Node>
+				</D11>
+			</D1>
+		</D>
+	</D>
+</B>
